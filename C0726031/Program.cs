@@ -12,6 +12,7 @@ namespace C0726031
         {
            
             int a=9;
+            int b= 8;
         }
     }
 }
